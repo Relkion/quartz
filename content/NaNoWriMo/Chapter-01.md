@@ -1,7 +1,6 @@
 ---
 title: "Chapter 01"
-tags:
-	- NaNoWriMo
+tags: [NaNoWriMo]
 ---
 
 texttexttexttext

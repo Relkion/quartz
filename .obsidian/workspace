@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "ee27dbe07062f394",
   "lastOpenFiles": [
+    "content/NaNoWriMo/NaNoWriMo-April-2022.md",
     "content/_index.md",
     "content/NaNoWriMo/Chapter-01.md",
-    "content/NaNoWriMo/NaNoWriMo-April-2022.md",
     "content/private/private-note.md",
     "README.md",
     "Chapter.md",
