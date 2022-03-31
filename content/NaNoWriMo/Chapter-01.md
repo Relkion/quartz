@@ -1,6 +1,6 @@
 ---
 title: "Chapter 01"
-class: singlepage
+cssclass: singlepage
 tags:
-	-NaNoWriMo
+	- NaNoWriMo
 ---
