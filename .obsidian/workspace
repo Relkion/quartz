@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "49d430c20b369125",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee27dbe07062f394",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9ef2a01d8325ef2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "577be91c071c8043",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea47c2fd9777767d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b686884b9cc9c893",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 148
+  },
+  "right": {
+    "id": "1e713cb980a7e50e",
+    "type": "split",
+    "children": [
+      {
+        "id": "09722d30ef0d652d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5394794cd410ef14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee27dbe07062f394",
+  "lastOpenFiles": [
+    "README.md",
+    "content/_index.md",
+    "screenshot.png",
+    "tags/setup.md",
+    "static/icon.png",
+    "content/templates/post.md",
+    "content/notes/config.md",
+    "content/notes/images/obsidian-settings.png",
+    "content/notes/images/google-domains.png",
+    "content/notes/images/github-pages.png"
+  ]
+}

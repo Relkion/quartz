@@ -1,3 +1,10 @@
+# Relkion makes a ReadMe
+You have read it. Huzzah. 
+
+[Go Here for Things](_index)
+
+Anyway look at how this fantastic tool looks without the butchering of ignorants! 
+
 # Quartz
 
 Host your second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening) for free. Quartz features
