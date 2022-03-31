@@ -1,7 +1,7 @@
 # Relkion makes a ReadMe
 You have read it. Huzzah. 
 
-[Go Here for Things](_index)
+[Go Here for Things](https://relkion.github.io/quartz/)
 
 Anyway look at how this fantastic tool looks without the butchering of ignorants! 
 
