@@ -1,6 +1,8 @@
 ---
 title: "Chapter 01"
-tags: [NaNoWriMo]
+tags: 
+- nanowrimo
+disableToc: true
 ---
 
 texttexttexttext
