@@ -3,7 +3,7 @@ You have read it. Huzzah. 🎉
 
 [Go Here for Things](https://relkion.github.io/quartz/)
 
-Anyway look at how this fantastic tool looks without the butchering of ignorants! 
+Anyway please see below for resources on this fantastic tool and how it operates without the butchering of ignorants! 
 
 # Quartz
 

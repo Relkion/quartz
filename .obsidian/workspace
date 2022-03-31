@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "content/_index.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -90,14 +90,14 @@
   "active": "ee27dbe07062f394",
   "lastOpenFiles": [
     "content/_index.md",
-    "tags/setup.md",
+    "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+    "content/NaNoWriMo/Chapter-01.md",
     "README.md",
+    "Chapter.md",
+    "tags/setup.md",
     "screenshot.png",
     "static/icon.png",
     "content/templates/post.md",
-    "content/notes/config.md",
-    "content/notes/images/obsidian-settings.png",
-    "content/notes/images/google-domains.png",
-    "content/notes/images/github-pages.png"
+    "content/notes/config.md"
   ]
 }
