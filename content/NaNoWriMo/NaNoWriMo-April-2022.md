@@ -13,7 +13,7 @@ Anyway, onward!
 
 Here's a [blurb](TianDiRen-Blurb), if you want to get an idea of what the story is about, otherwise, feel free to jump straight in.
 
-- [Chapter 01](Chapter-01.md)
+- [Chapter 01](NaNoWriMo/Chapter-01.md)
 - Chapter 02
 - Chapter 03
 - Chapter Infinity
