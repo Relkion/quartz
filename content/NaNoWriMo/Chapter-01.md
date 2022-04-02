@@ -9,23 +9,23 @@ Jiaojiao, beauty blogger, skincare guru, and spokesperson for MEI cosmetics, was
 
 The internet celebrity was trending moments after her scheduled Friday stream ended disastrously, having collapsed on camera to the bemused gazes of her supposed fans, just moments from applying the last rhinestone to her bedazzled pinky nail.
 
-ChanelAddict_663: Is she day drunk?
+**ChanelAddict_663:** Is she day drunk?
 
-GucciBtches: LOL wtf is going on
+**GucciBtches:** LOL wtf is going on
 
-Superb_Ninja2394: Someone call 911
+**Superb_Ninja2394:** Someone call 911
 
-Elf_Grrl554: look at how her face squishes weird, thats def plastic surgery
+**Elf_Grrl554:** look at how her face squishes weird, thats def plastic surgery
 
-GucciBtches: ROFL she ruined her nails
+**GucciBtches:** ROFL she ruined her nails
 
-Fei_De_Rei: calm down evry1 shes just doing this for attention
+**Fei_De_Rei:** calm down evry1 shes just doing this for attention
 
-ChanelAddict_663: ikr everyone knows shes some desperate hasbeen
+**ChanelAddict_663:** ikr everyone knows shes some desperate hasbeen
 
-EyelineSkyline_43: this is fake
+**EyelineSkyline_43:** this is fake
 
-BBL44 : so fake
+**BBL44: **so fake
 
 It was however, not fake that Jiaojiao was currently sitting up in an ancient dilapidated bedroom with a distinct lack of modern necessities. From the scuffed corners of the _hongmu_ armoire, to the cracked surface of the low tea table with mother of pearl inlay, every detail screamed of bygone grandeur. The mustiness in the air hinted at age and neglect.
 
@@ -231,4 +231,4 @@ When the trio has disappeared from view, so too did the buzzing cease.
 
 The air grew heavy and solemn as Jiaojiao scanned her surroundings, hobbling back to the _kang_, now sporting two mango sized holes.
 
-"All right, there's no one here," Jiaojiao said to the air. "There's no one here now. Come out."
+"All right, there's no one here," Jiaojiao said to the air. "Come out."
