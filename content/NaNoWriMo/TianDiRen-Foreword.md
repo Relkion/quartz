@@ -1,6 +1,6 @@
 ## Rambling Ahead
 
-My guilty pleasure is hunting [Novel Updates](https://www.novelupdates.com/) for a [good time](content/NaNoWriMo/Webnovel-Recommendations.md). I'm a pretty heavy reader of the transmigration and isekai genres, and while there are things I enjoy about them, there are also things that I find quite annoying about them. 
+My guilty pleasure is hunting [Novel Updates](https://www.novelupdates.com/) for a [good time](Webnovel-Recommendations.md). I'm a pretty heavy reader of the transmigration and isekai genres, and while there are things I enjoy about them, there are also things that I find quite annoying about them. 
 
 I will not say too much about them here, but only mention my top three pet peeves; sexism, abundance of filler, and a seemingly endless parade of doctor-assassin heroines. I don't know what it is about this trope that deserves replicating with reckless abandon but...
 

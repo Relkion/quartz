@@ -7,7 +7,7 @@ disableToc: true
 
 I've had this idea for a book series bouncing around for quite some time and [NaNoWriMo](https://nanowrimo.org/what-is-camp-nanowrimo) was just the excuse that I needed to jumpstart the whole endeavor. This is my first time participating, wish me luck!
 
-But first, a [brief foreword](content/NaNoWriMo/TianDiRen-Foreword.md). Reading this section is not by any means necessary to understand the work (hopefully,) but if you have a minute to kill... 
+But first, a [brief foreword](TianDiRen-Foreword.md). Reading this section is not by any means necessary to understand the work (hopefully,) but if you have a minute to kill... 
 
 Anyway, onward! 
 
