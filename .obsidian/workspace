@@ -9,9 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
-            "mode": "source",
-            "source": false
+            "file": "content/NaNoWriMo/TianDiRen-Foreword.md",
+            "mode": "source"
           }
         }
       }
@@ -40,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"                \"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/NaNoWriMo/TianDiRen-Foreword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,6 +77,14 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "ee3d262bc9e5db77",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ]
@@ -89,15 +96,15 @@
   },
   "active": "ee27dbe07062f394",
   "lastOpenFiles": [
-    "content/_index.md",
+    "content/NaNoWriMo/TianDiRen-Foreword.md",
+    "content/NaNoWriMo/TianDiRen-Blurb.md",
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
     "content/NaNoWriMo/Chapter-01.md",
+    "content/NaNoWriMo/Webnovel-Recommendations.md",
+    "content/_index.md",
     "content/private/private-note.md",
     "README.md",
     "Chapter.md",
-    "tags/setup.md",
-    "screenshot.png",
-    "static/icon.png",
-    "content/templates/post.md"
+    "tags/setup.md"
   ]
 }
