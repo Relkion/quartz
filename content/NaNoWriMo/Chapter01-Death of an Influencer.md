@@ -1,5 +1,5 @@
 ---
-title: "Chapter 01"
+title: "Chapter 01-Death of an Influencer"
 tags: 
 - nanowrimo
 disableToc: true
@@ -25,7 +25,7 @@ The internet celebrity was trending moments after her scheduled Friday stream en
 
 **EyelineSkyline_43:** this is fake
 
-**BBL44: **so fake
+**BBL44:** so fake
 
 It was however, not fake that Jiaojiao was currently sitting up in an ancient dilapidated bedroom with a distinct lack of modern necessities. From the scuffed corners of the _hongmu_ armoire, to the cracked surface of the low tea table with mother of pearl inlay, every detail screamed of bygone grandeur. The mustiness in the air hinted at age and neglect.
 
@@ -39,29 +39,29 @@ A stroke. It had to be.
 
 Because... what would be the alternative?
 
-With mounting horror, Jiaojiao was swiftly coming to the realization that this body was not her body. Jiaojiao used her not-her-hands to touch her not-her-face. It was small, thin, and _unmoisturized_. _Who was this person?_
+With mounting horror, Jiaojiao used her not-her-hands to touch her not-her-face. It was small, thin, and _unmoisturized_. _Who was this person?_
 
 She didn't get to dwell on it further before the door to the bedroom burst open with a crack of distressed wood.
 
 "Bai Xingyue, you slut!" cried a sweet young voice.
 
-Framed in the doorway, with her leg still raised in a high-kick, was a young girl in a pink _hanfu_, perhaps twelve to fifteen years old. Pearled hairpins in the shapes of flowers and birds bobbed with her movements. Her tender face was scrunched in a scowl that was more cute in the way of angry kittens and growling puppies, than intimidating.
+Framed in the doorway, with her leg still raised in a high-kick, was a young girl in a pink _hanfu_, perhaps twelve to fifteen years old. Pearled hairpins in the shapes of flowers and birds swayed with her movements. Her tender face was scrunched in a scowl that was more cute in the way of angry kittens and growling puppies, than intimidating.
 
 Bai Xingyue? Is she talking about _not-me_?
 
 The girl didn't waste a second rushing into the room, hand raised in a maneuver Jiaojiao recognized well as the classic posture for a slap, so well exemplified in Chinese harem dramas. She shifted out of the way, though her body responded much more sluggishly than she was used to.
 
-The angry girl's pink embroidered sleeves billowed as her fist landed on the traditional _kang_ bed. Rather than bouncing off the woven bottom as Jiaojiao expected, that tiny fist blasted through in an explosion of bamboo shards.
+The angry girl's pink embroidered sleeves billowed as her fist landed on the traditional _kang_ bed. Rather than bouncing off the woven bottom as Jiaojiao expected, that tiny palm blasted through in an explosion of bamboo shards.
 
 "You dare dodge?!" The girl screeched, then pouted at the _audacity_.
 
-Jiaojiao was too baffled to speak. So should she stay still and get her head smashed in? What the hell? Was this ninety pound loli She-ra incarnate?
+Jiaojiao was too baffled to speak. What then? So should she stay still and get her head smashed in? The hell was with this strength? Was this ninety pound loli She-ra incarnate?
 
 "I-- I'm sorry?" Jiaojiao finally rasped out, noting that the voice was not her voice, but what else was new? The moment the words were out of her-- _not-her mouth_, there was a brief buzz in Jiaojiao's mind. Jiaojiao frowned, raising a hand to her head. More signs she was having a stroke, surely.
 
 "You think apologizing is enough?" the girl sneered, hand raised for another slap. "You slut. Why didn't you just drown in that pond? You think such lowly tactics would attract the crown prince? Naive!"
 
-What was this about a crown prince? So this is a historical drama? What dynasty? Is this a drama with wuxia elements? Jiaojiao thought wildly to herself. How else to explain this girls strength? Why am I even thinking about this? I could be dying right as we speak, brain cells withering from lack of oxygen! Are the paramedics even on the way? Knowing her usual audience they wouldn't care to call for help even if it became obvious rigor was setting in.
+*What was this about a crown prince? So this is a historical drama? What dynasty? Is this a drama with wuxia elements?* Jiaojiao thought wildly to herself. How else to explain this girls strength? Her mind swiftly ran the gamut of routine hypotheticals. *Is this a movie set? Am I getting punked? Where are the cameras? Where is the crew? Is this a dream? Why am I even thinking about this? I could be dying right as we speak, brain cells withering from lack of oxygen! Are the paramedics even on the way?* Knowing her usual audience they wouldn't care to call for help even if it became obvious rigor was setting in.
 
 _Doomed. I'm doomed._
 
@@ -103,7 +103,7 @@ _What is wrong with these people?_
 
 "Hmph," the girl finally smiled. "So what if you don't remember? Now hold still so I can rid the world of an eyesore."
 
-"You really want to kill her-- me?" Jiaojiao asked doubtfully.
+"You're seriously trying to kill her-- me?" Jiaojiao asked with doubt.
 
 "You finally understand," the girl smiled. Objectively, it was a nice smile on a pretty face, but it made the hairs stand up on the back of Jiaojiao's neck.
 
@@ -125,7 +125,7 @@ The servants darted forward, cooing in distress over their mistress's hand.
 
 "You wretch! How could you hurt the miss's hand like this!"
 
-Jiaojiao was too distracted to answer, eyes riveted on the contents of that floating box.
+Jiaojiao was too distracted to answer, eyes riveted on the contents of that floating box that no one else seemed to see.
 
 *Bai Jing woke in a dirty old bedroom...**
 
@@ -169,11 +169,11 @@ Jiaojiao finally turned her gaze back to the bristling girl in pink, having fini
 
 The girl curled her lip up in ridicule. "I thought you lost your memories?"
 
-"So it is."
+"So it is," Jiaojiao pointed to the ghostly text box. "None of you see that?"
 
-"Don't think pretending to be crazy will get you out of anything!"
+"See what? Don't think pretending to be crazy will get you out of anything!"
 
-"What do you want to do?" Jiaojiao asked, exasperated. "Should I just lie down and let you kill me?"
+"What do you want me to do?" Jiaojiao asked, exasperated. "Should I just lie down and let you kill me?"
 
 "It would be your honor to be killed by me!"
 
@@ -181,23 +181,25 @@ Jiaojiao refrained from rolling her eyes. "What can I do so that you won't kill 
 
 Bai Xingwu smiled, eyes crinkling in mirthful crescents. "Kowtow. Kowtow until I tell you to stop."
 
-And what if you never tell me to stop? Jiaojiao could already predict the outcome. "Fine," she said with a diplomatic smile and crawled off of the _kang_, wincing as her right leg twinged in pain.
+*And what if you never tell me to stop?* Jiaojiao rebutted internally. "Fine," she said instead with a diplomatic smile and crawled off of the _kang_, avoiding the wreckage of the girl's punches. She paused as her right leg gave a twinge in pain.
 
-Jiaojiao shuffled awkwardly to the dusty floor, then knelt, right knee now screaming in protest. There was definitely something up with that leg but she didn't currently have the time to address it. She took a moment to admire Bai Xingwu's pearl-studded shoes, then lowered her head in the first kowtow.
+"What are you waiting for?" Bai Xingwu prodded, her smile mean and knowing.
 
-The harsh buzzing began anew.
+Jiaojiao shuffled awkwardly to the dusty floor, then knelt, right knee now screaming in protest. There was definitely something up with that leg but she didn't currently have the time to address it. She took a distracted moment to admire Bai Xingwu's pearl-studded shoes, then lowered her head in the first kowtow, grimacing as the dirty floor neared her face. After a minute pause, her forehead touched the ground with an audible tap.
+
+The harsh buzzing began anew. The girl gave her a pointed glare when Jiaojiao paused in thought.
 
 _It's all a stroke anyway! Why am I worrying?_
 
 Only Jiaojiao knew herself fairly well, and she wasn't imaginative enough to dream this shit up by far.
 
-She was feeling pain in a hallucination, not a hallucination. Every sight, smell, and feeling was indicating that she might _possibly, not really, actually_ be having a stroke.
+She was feeling pain in a hallucination-- maybe not a hallucination. Every sight, smell, and feeling was indicating that she might _possibly, not really, actually_ be having a stroke.
 
-Jiaojiao grit her teeth and began her second kowtow. Ignoring the buzzing in her head. A new box of text popped up next to the first, bobbing insistently. She gave it a cursory glance then covertly rolled her eyes.
+Jiaojiao grit her teeth and began her second kowtow. Ignoring the buzzing in her head. A new box of text popped up next to the first, bobbing insistently. She gave it a cursory glance, then covertly rolled her eyes.
 
 _Bai Jing laughed as the servant wailed in pain..._
 
-_Bai Jing broke Bai Xingwu's hand with a snap of her fist..._
+_Bai Jing broke Bai Xingwu's hand with a snap of her wrist..._
 
 _"How dare you call this great aunt a slut? Are you speaking of yourself?"_
 
@@ -207,11 +209,11 @@ Jiaojiao touched her head to the dusty floor for the six time, the ground now da
 
 "Cry for me," Bai Xingwu suggested cooly. "Ask for my forgiveness."
 
-With a sniff, Jiaojiao began to wail and covered her face with her hands, pressing down on her eyelids until her tear glands welled up with physiological tears. Blinking rapidly, she choked on her sobs as she coyly looked down.
+With a sniff, Jiaojiao began to wail and covered her face with her dusty hands, pressing down on her eyelids until her tear glands welled up with physiological tears. Blinking rapidly, she choked on her sobs as she coyly looked down.
 
 "Hah! You're so ugly," the girl said, "kowtow to me nine times and I'll let you go for today!"
 
-The ground beneath her face was now dotted with tears as well as saliva and sweat. Jiaojiao wailed theatrically.
+The ground beneath her face was now dotted with tears as well as saliva and sweat. Jiaojiao wailed theatrically, face coated in dust and grime.
 
 "Look how ugly she is."
 
@@ -225,9 +227,9 @@ Thankfully, Bai Xingwu soon grew bored of the spectacle and takes before swingin
 
 "Let this be a lesson to you, slut! Don't you dare covet the crown prince! He is the heavens and you are less than dirt," the girl spat, then left with a swish of her sleeves, leaving behind only the scent of jasmine. Her two servants shot Jiaojiao one last ridiculing glance, then scurried after their mistress, kicking the ruins of the door aside on their way out.
 
-Jiaojiao's cries cut off with a abruptness that struck of artificiality. She wiped her face with a tattered sleeve and regarded her departing audience with a lackluster expression.
+Jiaojiao's cries cut off with an abruptness that struck of artificiality. She wiped her face with a tattered sleeve and regarded her departing audience with a lackluster expression.
 
-When the trio has disappeared from view, so too did the buzzing cease.
+When the trio disappeared from view, so too did the buzzing cease.
 
 The air grew heavy and solemn as Jiaojiao scanned her surroundings, hobbling back to the _kang_, now sporting two mango sized holes.
 

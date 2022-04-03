@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-            "mode": "source"
+            "file": "content/NaNoWriMo/Chapter02-The Missing Heroine.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+                "file": "content/NaNoWriMo/Chapter02-The Missing Heroine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,15 +96,15 @@
   },
   "active": "ee27dbe07062f394",
   "lastOpenFiles": [
+    "content/NaNoWriMo/Chapter02-The Missing Heroine.md",
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-    "content/_index.md",
-    "content/NaNoWriMo/TianDiRen-Foreword.md",
-    "content/NaNoWriMo/TianDiRen-Blurb.md",
-    "content/NaNoWriMo/Chapter-01.md",
+    "content/NaNoWriMo/Chapter01-Death of an Influencer.md",
     "content/NaNoWriMo/Webnovel-Recommendations.md",
+    "content/NaNoWriMo/TianDiRen-Blurb.md",
+    "content/NaNoWriMo/TianDiRen-Foreword.md",
+    "content/_index.md",
     "content/private/private-note.md",
     "README.md",
-    "Chapter.md",
-    "tags/setup.md"
+    "Chapter.md"
   ]
 }
