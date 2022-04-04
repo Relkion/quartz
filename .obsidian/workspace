@@ -13,17 +13,6 @@
             "mode": "source"
           }
         }
-      },
-      {
-        "id": "416f571829f94e7e",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "content/NaNoWriMo/Chapter03-The-Cold-Prince-Loves-Me-Dearly.md",
-            "mode": "source"
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -108,14 +97,14 @@
   "active": "ee27dbe07062f394",
   "lastOpenFiles": [
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-    "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md",
-    "content/NaNoWriMo/Chapter03-The-Cold-Prince-Loves-Me-Dearly.md",
-    "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
     "content/_index.md",
+    "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
+    "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md",
     "content/NaNoWriMo/Webnovel-Recommendations.md",
     "content/NaNoWriMo/TianDiRen-Blurb.md",
     "content/NaNoWriMo/TianDiRen-Foreword.md",
     "content/private/private-note.md",
-    "README.md"
+    "README.md",
+    "Chapter.md"
   ]
 }

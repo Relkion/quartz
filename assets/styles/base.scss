@@ -112,10 +112,6 @@ td, th {
   gap: 1.5em;
   justify-content: center;
 
-  .disabled {
-    opacity: 0.2;
-  }
-
   & > li {
     text-align: center;
     display: inline-block;
@@ -185,11 +181,6 @@ article {
       padding: 0 0.1em;
       margin: auto -0.1em;
       border-radius: 3px;
-
-      &.broken {
-        opacity: 0.5;
-        background-color: transparent; 
-      }
     }
   }
   
@@ -523,17 +514,5 @@ header {
     margin: 0;
     font-weight: 400;
     user-select: none;
-  }
-}
-
-#contact_buttons ul {
-  list-style-type: none;
-
-  li {
-    display: inline-block;
-  }
-
-  li a {
-    padding: 0 1em;
   }
 }
