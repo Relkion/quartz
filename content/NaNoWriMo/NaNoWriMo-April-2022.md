@@ -7,22 +7,22 @@ disableToc: true
 
 I've had this idea for a book series bouncing around for quite some time and [NaNoWriMo](https://nanowrimo.org/what-is-camp-nanowrimo) was just the excuse that I needed to jumpstart the whole endeavor. This is my first time participating, wish me luck!
 
-But first, a [brief foreword](NaNoWriMo/TianDiRen-Foreword.md). Reading this section is not by any means necessary to understand the work (hopefully,) but if you have a minute to kill... 
+But first, a [[TianDiRen-Foreword|brief foreword]]. Reading this section is not by any means necessary to understand the work (hopefully,) but if you have a minute to kill... 
 
 Anyway, onward! 
 
-Here's a [blurb](NaNoWriMo/TianDiRen-Blurb), if you want to get an idea of what the story is about, otherwise, feel free to jump straight in.
+Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story is about, otherwise, feel free to jump straight in.
 
-- [Chapter 01](NaNoWriMo/Chapter01-Death-of-an-Influencer.md)
-- [Chapter 02](NaNoWriMo/Chapter02-The-Missing-Heroine.md)
-- Chapter 03
+- [[Chapter01-Death-of-an-Influencer|Chaper 01]]
+- [[Chapter02-The-Missing-Heroine|Chapter 02]]
+- [[Chapter03-The-Cold-Prince-Loves-Me-Dearly|Chapter 03]]
 - Chapter Infinity
 
 | **Day** | **Word Count Goal** | **Achievement** |
 |:-------:|:-------------------:|:---------------:|
 |   01    |        1667         |      2309       |
 |   02    |        1667         |      2181       |
-|   03    |        1667         |                 |
+|   03    |        1667         |      2245       |
 |   04    |        1667         |                 |
 |   05    |        1667         |                 |
 |   06    |        1667         |                 |
