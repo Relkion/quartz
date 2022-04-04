@@ -13,8 +13,8 @@ Anyway, onward!
 
 Here's a [blurb](NaNoWriMo/TianDiRen-Blurb), if you want to get an idea of what the story is about, otherwise, feel free to jump straight in.
 
-- [Chapter 01](content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md)
-- [Chapter 02](content/NaNoWriMo/Chapter02-The-Missing-Heroine.md)
+- [Chapter 01](NaNoWriMo/Chapter01-Death-of-an-Influencer.md)
+- [Chapter 02](NaNoWriMo/Chapter02-The-Missing-Heroine.md)
 - Chapter 03
 - Chapter Infinity
 
