@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "49d430c20b369125",
+    "id": "aeff111a1a000993",
     "type": "split",
     "children": [
       {
-        "id": "ee27dbe07062f394",
+        "id": "3a875b8ef8de92a7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9ef2a01d8325ef2a",
+    "id": "29612c365cc710f4",
     "type": "split",
     "children": [
       {
-        "id": "577be91c071c8043",
+        "id": "77f2b8e53142dd16",
         "type": "tabs",
         "children": [
           {
-            "id": "ea47c2fd9777767d",
+            "id": "b3cf0daeab0c0d57",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "b686884b9cc9c893",
+            "id": "fd0e4cceb3bca2aa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "\"                \"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -52,18 +52,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 148
+    "width": 176
   },
   "right": {
-    "id": "1e713cb980a7e50e",
+    "id": "be88bbaa8ca3d268",
     "type": "split",
     "children": [
       {
-        "id": "09722d30ef0d652d",
+        "id": "e8d8342bed07d22c",
         "type": "tabs",
         "children": [
           {
-            "id": "5394794cd410ef14",
+            "id": "5297e3c6d4662867",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -78,14 +78,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "ee3d262bc9e5db77",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
@@ -94,17 +86,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ee27dbe07062f394",
+  "active": "3a875b8ef8de92a7",
   "lastOpenFiles": [
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-    "content/_index.md",
     "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
     "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md",
-    "content/NaNoWriMo/Webnovel-Recommendations.md",
-    "content/NaNoWriMo/TianDiRen-Blurb.md",
-    "content/NaNoWriMo/TianDiRen-Foreword.md",
-    "content/private/private-note.md",
-    "README.md",
-    "Chapter.md"
+    "content/NaNoWriMo/Chapter03-The-Cold-Prince-Loves-Me-Dearly.md"
   ]
 }
