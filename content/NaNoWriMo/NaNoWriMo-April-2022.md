@@ -16,7 +16,7 @@ Here's a [blurb](NaNoWriMo/TianDiRen-Blurb), if you want to get an idea of what 
 - [Chapter 01](NaNoWriMo/Chapter01-Death-of-an-Influencer.md)
 - [Chapter 02](NaNoWriMo/Chapter02-The-Missing-Heroine.md)
 - [[Chapter03-The-Cold-Prince-Loves-Me-Dearly|Chapter 03]]
-- This is a test.
+- This is a test!!
 - Chapter Infinity
 
 | **Day** | **Word Count Goal** | **Achievement** |
