@@ -1,6 +1,8 @@
 name: Relkion
 enableToc: true
+openToc: false
 enableLinkPreview: true
+enableLatex: true
 description:
   This is Relkion's disaster of an attempt to publish things on GitHub. Hello.
 page_title:
