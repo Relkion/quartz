@@ -4,3 +4,4 @@ enableZoom: true
 depth: -1 # set to -1 to show full graph
 paths:
   - /moc: "#4388cc"
+  - /NaNoWriMo: "#4f43a3"
