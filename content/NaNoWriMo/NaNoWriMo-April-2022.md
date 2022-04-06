@@ -17,7 +17,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter02-The-Missing-Heroine|Chapter 02]]
 - [[Chapter03-The-Cold-Prince-Loves-Me-Dearly|Chapter 03]]
 - [[Chapter04-Cen-Wei-the-Suspicious|Chapter 04]]
-- [[Chapter05-Bai-Jing's-Artifact|Chapter 05]]
+- [[Chapter05-Bai-Jings-Artifact|Chapter 05]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |

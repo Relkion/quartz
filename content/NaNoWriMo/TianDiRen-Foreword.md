@@ -7,7 +7,7 @@ disableToc: true
 
 ## Rambling Ahead
 
-My guilty pleasure is hunting [Novel Updates](https://www.novelupdates.com/) for a [good time](NaNoWriMo/Webnovel-Recommendations.md). I'm a pretty heavy reader of the transmigration and isekai genres, and while there are things I enjoy about them, there are also things that I find quite annoying about them. 
+My guilty pleasure is hunting [Novel Updates](https://www.novelupdates.com/) for a [[Webnovel-Recommendations|good time]]. I'm a pretty heavy reader of the transmigration and isekai genres, and while there are things I enjoy about them, there are also things that I find quite annoying about them. 
 
 I will not say too much about them here, but only mention my top three pet peeves; sexism, abundance of filler, and a seemingly endless parade of doctor-assassin heroines. I don't know what it is about this trope that deserves replicating with reckless abandon but...
 
@@ -25,7 +25,7 @@ So many times I've read a story that was kind of enjoyable, and then something h
 
 So I decided to just try my hand and writing my own. 
 
-This world and its people are inspired by the tropes commonly seen in [C-Novels and Japanese light novels](https://www.novelupdates.com). This as of unnamed world is my spin on the doctor-assassin in a [xianxia](https://en.wikipedia.org/wiki/Xianxia_(genre)) setting... that is, if the heroine somehow [failed to show up](NaNoWriMo/TianDiRen-Blurb). 
+This world and its people are inspired by the tropes commonly seen in [C-Novels and Japanese light novels](https://www.novelupdates.com). This as of unnamed world is my spin on the doctor-assassin in a [xianxia](https://en.wikipedia.org/wiki/Xianxia_(genre)) setting... that is, if the heroine somehow [[TianDiRen-Blurb|failed to show up]]. 
 
 This work will be part parody, part criticism, and partly my own unique take on a xianxia world. So yeah, the magic system and the characters in this story aren't going to be the most original thing ever. In fact, much of what I'm writing is stuff that is tired as hell in the transmigration genre, but what I hope to bring to the table is my own unique spin-- and I hope to have fun while doing it!
 

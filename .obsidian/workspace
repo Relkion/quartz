@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+            "file": "content/_index.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+                "file": "content/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,12 +88,15 @@
   },
   "active": "3a875b8ef8de92a7",
   "lastOpenFiles": [
+    "content/_index.md",
+    "content/NaNoWriMo/TianDiRen-Foreword.md",
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-    "content/NaNoWriMo/Chapter05-Bai-Jing's-Artifact.md",
+    "content/NaNoWriMo/TianDiRen-Blurb.md",
+    "content/NaNoWriMo/Webnovel-Recommendations.md",
+    "content/NaNoWriMo/Chapter05-Bai-Jings-Artifact.md",
     "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
     "content/NaNoWriMo/Chapter04-Cen-Wei-the-Suspicious.md",
     "tags/setup.md",
-    "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md",
-    "content/NaNoWriMo/Chapter03-The-Cold-Prince-Loves-Me-Dearly.md"
+    "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md"
   ]
 }
