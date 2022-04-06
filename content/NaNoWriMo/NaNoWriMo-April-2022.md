@@ -11,13 +11,13 @@ But first, a [[TianDiRen-Foreword|foreword]]. Reading this section is not by any
 
 Anyway, onward! 
 
-Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story is about, otherwise, feel free to jump straight in.
+Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story is about, otherwise, feel free to jump straight in. However, a word of caution, first drafts are never pretty. :P
 
-- [[Chapter01-Death-of-an-Influencer|Chapter 01]] [[Chapter02-The-Missing-Heroine|Chapter 02]]
+- [[Chapter01-Death-of-an-Influencer|Chapter 01]]
+- [[Chapter02-The-Missing-Heroine|Chapter 02]]
 - [[Chapter03-The-Cold-Prince-Loves-Me-Dearly|Chapter 03]]
 - [[Chapter04-Cen-Wei-the-Suspicious|Chapter 04]]
-- Chapter Infinity
-
+- [[Chapter05-Bai-Jing's-Artifact|Chapter 05]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
@@ -26,7 +26,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   02    |        1667         |      2181       |
 |   03    |        1667         |      2245       |
 |   04    |        1667         |      2589       |
-|   05    |        1667         |                 |
+|   05    |        1667         |      2548       |
 |   06    |        1667         |                 |
 |   07    |        1667         |                 |
 |   08    |        1667         |                 |

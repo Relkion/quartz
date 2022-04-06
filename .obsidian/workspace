@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 176
+    "width": 175
   },
   "right": {
     "id": "be88bbaa8ca3d268",
@@ -89,7 +89,10 @@
   "active": "3a875b8ef8de92a7",
   "lastOpenFiles": [
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+    "content/NaNoWriMo/Chapter05-Bai-Jing's-Artifact.md",
     "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
+    "content/NaNoWriMo/Chapter04-Cen-Wei-the-Suspicious.md",
+    "tags/setup.md",
     "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md",
     "content/NaNoWriMo/Chapter03-The-Cold-Prince-Loves-Me-Dearly.md"
   ]
