@@ -28,7 +28,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   03    |        1667         |      2245       |
 |   04    |        1667         |      2589       |
 |   05    |        1667         |      2548       |
-|   06    |        1667         |                 |
+|   06    |        1667         |      2576       |
 |   07    |        1667         |                 |
 |   08    |        1667         |                 |
 |   09    |        1667         |                 |
