@@ -18,6 +18,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter03-The-Cold-Prince-Loves-Me-Dearly|Chapter 03]]
 - [[Chapter04-Cen-Wei-the-Suspicious|Chapter 04]]
 - [[Chapter05-Bai-Jings-Artifact|Chapter 05]]
+- [[Chapter06-The-Impasse|Chapter 06]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
