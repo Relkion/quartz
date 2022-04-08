@@ -19,6 +19,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter04-Cen-Wei-the-Suspicious|Chapter 04]]
 - [[Chapter05-Bai-Jings-Artifact|Chapter 05]]
 - [[Chapter06-The-Impasse|Chapter 06]]
+- [[Chapter07-The-Stuttering-Concubine|Chapter 07]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
@@ -29,7 +30,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   04    |        1667         |      2589       |
 |   05    |        1667         |      2548       |
 |   06    |        1667         |      2576       |
-|   07    |        1667         |                 |
+|   07    |        1667         |      2334       |
 |   08    |        1667         |                 |
 |   09    |        1667         |                 |
 |   10    |        1667         |                 |
