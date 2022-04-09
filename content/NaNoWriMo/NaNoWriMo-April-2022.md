@@ -20,6 +20,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter05-Bai-Jings-Artifact|Chapter 05]]
 - [[Chapter06-The-Impasse|Chapter 06]]
 - [[Chapter07-The-Stuttering-Concubine|Chapter 07]]
+- [[Chapter08-Morning-and-Hu-Maoxun|Chapter 08]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
@@ -31,7 +32,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   05    |        1667         |      2548       |
 |   06    |        1667         |      2576       |
 |   07    |        1667         |      2334       |
-|   08    |        1667         |                 |
+|   08    |        1667         |      2044       |
 |   09    |        1667         |                 |
 |   10    |        1667         |                 |
 |   11    |        1667         |                 |
