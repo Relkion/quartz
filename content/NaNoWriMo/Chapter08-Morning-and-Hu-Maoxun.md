@@ -5,13 +5,13 @@ tags:
 disableToc: true
 ---
 
-Jiaojiao's eyelids creaked open. Distant birdsong filtered through the paper window. She was half-bundled in Cen Wei's bed, slumped over a crumpled hanfu she'd spent half the night altering.
+Jiaojiao's eyelids creaked open, groaning as the dawn light slashed at her retinas like a scalpel. Distant birdsong filtered through the thin paper window, radiating cold. She moved her arms then hissed as her numb limbs responded with a prickling stab. She was half-bundled in Cen Wei's bed, slumped over a crumpled hanfu she'd spent half the night altering. The other half she'd slept fitfully, her head full of vague shadows and sad smiles. Her dozing mind took in the scene in front of her.
 
 For a panicked moment, in between sleeping and waking, she thought she'd been kidnapped and thrown into a dingy location for safe-keeping. Then she remembered.
 
-Oh right. She'd transmigrated.
+Goddammit. She'd transmigrated.
 
-Wait, was anything she'd just thought incorrect in essence? She shot a glare toward Guang Qiu, only to realize it was nowhere to be seen.
+Wait, was anything she'd just thought incorrect in essence? She shook out her dead arms, shooting a glare toward Guang Qiu, only to realize it was nowhere to be seen.
 
 "Guang Qiu?"
 
@@ -27,15 +27,15 @@ Huh.
 
 *So don't get any funny ideas, mortal! I'll always be watching you!*
 
-"Alright, simmer down, Sting." Jiaojiao stripped off her clothes, smirking as she sent the prudish Guang Qiu screaming out of the room. She was proud of what she'd accomplished in one night given that she had no access to a modern sewing machine, and she had done it by the light of an archaic lantern. 
+"Alright, simmer down, Sting." Jiaojiao stripped off her threadbare clothes, smirking as she sent the prudish Guang Qiu screaming out of the room. There had been a moment, as she worked, where she was astounded by how even her stitches were, given that they'd only been so-so in her past life. She chalked it up to the body's muscle memory, the previous occupant after all, probably did her share of mending clothes. Nevertheless, she was proud of what she'd accomplished in one night given that she had no access to a modern sewing machine, and she had done it by the light of an archaic lantern. 
 
 Hence the current ache in her eyeballs.
 
 "Worth it," she told no one, as she dressed in the well-tailored gray robes, altered from the least distressed set found in Cen Wei's chest. It fit her scrawny figure perfectly, and while nothing could really flatter a stick-figure, she at least didn't look like a child playing dress-up. She'd even created a form-fitting mask from the scraps, maybe out of habit after going through the plague in modern times. Normally she'd balk at the thought of wearing used clothing, but literal beggars couldn't be choosers.
 
-*You spent all that time just for this? You still look like an impoverished peasant.* Guang Qiu ridiculed as he got a look at Jiaojiao's getup. 
+*You spent all that time just for this? You* still *look like an impoverished peasant.* Guang Qiu ridiculed as he got a look at Jiaojiao's getup. 
 
-As a self-titled fashionista, Jiaojiao wouldn't be caught dead in sagging, loose-fitting robes. Well, dead again. She had died. At least she had been well dressed last time around since she made a point of looking sharp for her audience during streams. She would have died again in shame in the afterlife if she'd been found in her slouchy pajamas. She-- 
+As a self-titled fashionista, Jiaojiao wouldn't be caught dead in sagging, loose-fitting robes. Well, dead again, since she had already died. At least she had been well dressed last time around since she made a point of looking sharp for her audience during streams. She would have died again in shame in the afterlife if she'd been found in her slouchy pajamas. She-- 
 
 Jiaojiao fell back onto the kang, shocked into silence.
 
@@ -107,7 +107,7 @@ I'm going to die of starvation. I'll be the first to die of starvation after tra
 
 *You had an artifact! And you were the one who lost it!*
 
-Breakfast a lost cause, Jiaojiao wandered through the moon door leading out of the courtyard, hoping to cadge a meal from the stuttering concubine.
+Breakfast a lost cause, Jiaojiao donned a straw hat and grabbed a wooden pole she'd found in the storehouse as a cane. She wandered through the moon door leading out of the courtyard, hoping to cadge a meal from the stuttering concubine.
 
 She made her way in the direction of the neighboring courtyard, but stopped short and shrunk back when she saw a young man in fine blue robes speaking with the woman from yesterday. He handed her a drawstring purse, then saluted before taking his leave, passing towards Jiaojiao's position. She hastily hid behind the edge of the moon door, breathing strangled when the footsteps paused right outside.
 
@@ -117,9 +117,9 @@ Jiaojiao waited for another three minutes before she felt safe leaving the confi
 
 "G-good, you m-made it," the stuttering concubine said, ushering her into her residence. Jiaojiao swallowed her questions about the young man. It really wasn't any of her business.
 
-Jiaojiao took a curious look at the courtyard. It was identical in size in layout, but in far better repair. Even so, the age and overall neglect could not be dismissed. 
+Jiaojiao took a curious look at the courtyard. It was identical to Bai Xingyue's in size in layout, but in far better repair. Even so, the age and overall neglect could not be dismissed. 
 
-It seems that this section of the estate is reserved for those the Bai Family would prefer out of sight. No doubt the stuttering concubine was one such existence. Too pretty to throw away, but too embarrassing to be seen due to her speech impediment.
+It seemed that this section of the estate is reserved for those the Bai Family would prefer out of sight. No doubt the stuttering concubine was one such existence. Too pretty to throw away, but her speech impediment left her too embarrassing to be seen.
 
 Jiaojiao's stomach gave a plaintive lurch as she laid eyes on the basket of steamed buns lounging on the low table in the reception room. The concubine caught her staring and tactfully gestured toward the table. "Please, sit down and eat."
 
@@ -165,7 +165,7 @@ The two exited the residence and Hu Maoxun led her to a boarded up section of th
 
 Jiaojiao looked at the hole. The wall was about six or seven inches thick, the other side covered with a shrub or bush.
 
-She forced a smile and gave Hu Maoxun a formal salute. "I can't thank you enough for your help."
+She hefted her make-shift cane, forced a smile and gave Hu Maoxun a formal salute. "I can't thank you enough for your help."
 
 "It's n-nothing. I grow b-bored by myself. This was an a-amusing m-morning," Hu Maoxun suddenly pressed a cloth pouch into her hands. "Please take this."
 
