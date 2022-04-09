@@ -4,4 +4,4 @@ tags:
 - disaster
 ---
 
-- 📕 [NaNoWriMo-April 2022](content/NaNoWriMo/NaNoWriMo-April-2022.md)
+- 📕 [NaNoWriMo-April 2022](NaNoWriMo/NaNoWriMo-April-2022.md)
