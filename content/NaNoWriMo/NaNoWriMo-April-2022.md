@@ -21,6 +21,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter06-The-Impasse|Chapter 06]]
 - [[Chapter07-The-Stuttering-Concubine|Chapter 07]]
 - [[Chapter08-Morning-and-Hu-Maoxun|Chapter 08]]
+- [[Chapter09-The-Rickshaw-and-the-Clinic|Chapter 09]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
@@ -33,7 +34,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   06    |        1667         |      2576       |
 |   07    |        1667         |      2334       |
 |   08    |        1667         |      2250       |
-|   09    |        1667         |                 |
+|   09    |        1667         |      1896       |
 |   10    |        1667         |                 |
 |   11    |        1667         |                 |
 |   12    |        1667         |                 |

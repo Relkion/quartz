@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/_index.md",
+            "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/_index.md",
+                "file": "content/NaNoWriMo/NaNoWriMo-April-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3a875b8ef8de92a7",
   "lastOpenFiles": [
-    "content/_index.md",
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
+    "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
+    "content/NaNoWriMo/Chapter09-The-Rickshaw-and-the-Clinic.md",
+    "content/_index.md",
     "content/NaNoWriMo/Chapter08-Morning-and-Hu-Maoxun.md",
     "content/NaNoWriMo/Chapter07-The-Stuttering-Concubine.md",
     "content/NaNoWriMo/Chapter06-The-Impasse.md",
-    "content/NaNoWriMo/Chapter01-Death-of-an-Influencer.md",
     "tags/setup.md",
     "content/NaNoWriMo/TianDiRen-Foreword.md",
-    "content/NaNoWriMo/TianDiRen-Blurb.md",
-    "content/NaNoWriMo/Webnovel-Recommendations.md"
+    "content/NaNoWriMo/TianDiRen-Blurb.md"
   ]
 }
