@@ -22,6 +22,8 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter07-The-Stuttering-Concubine|Chapter 07]]
 - [[Chapter08-Morning-and-Hu-Maoxun|Chapter 08]]
 - [[Chapter09-The-Rickshaw-and-the-Clinic|Chapter 09]]
+- [[Chapter10-The-Broken-Body|Chapter 10]]
+- [[Chapter11-The-Cold-Prince|Chapter 11]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** |
@@ -36,7 +38,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   08    |        1667         |      2250       |
 |   09    |        1667         |      1896       |
 |   10    |        1667         |      1872           |
-|   11    |        1667         |                 |
+|   11    |        1667         |      1871           |
 |   12    |        1667         |                 |
 |   13    |        1667         |                 |
 |   14    |        1667         |                 |
