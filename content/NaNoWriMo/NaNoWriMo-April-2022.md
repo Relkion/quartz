@@ -33,6 +33,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter18-Blueprint|Chapter 18]]
 - [[Chapter19-A-Deal|Chapter 19]]
 - [[Chapter20-The-Coincidence|Chapter 20]]
+- [[Chapter21-The-Right|Chapter 21]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -57,14 +58,14 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   18    |        1667         |      2370       |   41396   |
 |   19    |        1667         |      2234       |   43630   |
 |   20    |        1667         |      2221       |   45851   |
-|   21    |        1667         |                 |   45851   |
-|   22    |        1667         |                 |   45851   |
-|   23    |        1667         |                 |   45851   |
-|   24    |        1667         |                 |   45851   |
-|   25    |        1667         |                 |   45851   |
-|   26    |        1667         |                 |   45851   |
-|   27    |        1667         |                 |   45851   |
-|   28    |        1667         |                 |   45851   |
-|   29    |        1667         |                 |   45851   |
-|   30    |        1667         |                 |   45851   |
+|   21    |        1667         |      2185       |   48036   |
+|   22    |        1667         |                 |   48036   |
+|   23    |        1667         |                 |   48036   |
+|   24    |        1667         |                 |   48036   |
+|   25    |        1667         |                 |   48036   |
+|   26    |        1667         |                 |   48036   |
+|   27    |        1667         |                 |   48036   |
+|   28    |        1667         |                 |   48036   |
+|   29    |        1667         |                 |   48036   |
+|   30    |        1667         |                 |   48036   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
