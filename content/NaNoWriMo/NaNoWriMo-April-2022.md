@@ -35,6 +35,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter20-The-Coincidence|Chapter 20]]
 - [[Chapter21-The-Right|Chapter 21]]
 - [[Chapter22-The-Girl-in-the-Fridge|Chapter 22]]
+- [[Chapter23-The-Imperial-Edict|Chapter 23]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -61,12 +62,12 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   20    |        1667         |      2221       |   45851   |
 |   21    |        1667         |      2185       |   48036   |
 |   22    |        1667         |      2742       |   50778   |
-|   23    |        1667         |                 |   50778   |
-|   24    |        1667         |                 |   50778   |
-|   25    |        1667         |                 |   50778   |
-|   26    |        1667         |                 |   50778   |
-|   27    |        1667         |                 |   50778   |
-|   28    |        1667         |                 |   50778   |
-|   29    |        1667         |                 |   50778   |
-|   30    |        1667         |                 |   50778   |
+|   23    |        1667         |      2607       |   53385   |
+|   24    |        1667         |                 |   53385   |
+|   25    |        1667         |                 |   53385   |
+|   26    |        1667         |                 |   53385   |
+|   27    |        1667         |                 |   53385   |
+|   28    |        1667         |                 |   53385   |
+|   29    |        1667         |                 |   53385   |
+|   30    |        1667         |                 |   53385   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
