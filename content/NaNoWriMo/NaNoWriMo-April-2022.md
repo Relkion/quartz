@@ -37,6 +37,8 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter22-The-Girl-in-the-Fridge|Chapter 22]]
 - [[Chapter23-The-Imperial-Edict|Chapter 23]]
 - [[Chapter24-The-Guilt-of-Bai-Xingyue|Chapter 24]]
+- [[Chapter25-The-Broken-Castle|Chapter 25]]
+- [[Chapter26-Certifiable|Chapter 26]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -65,10 +67,10 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   22    |        1667         |      2742       |   50778   |
 |   23    |        1667         |      2607       |   53385   |
 |   24    |        1667         |      2281       |   55666   |
-|   25    |        1667         |                 |   55666   |
-|   26    |        1667         |                 |   55666   |
-|   27    |        1667         |                 |   55666   |
-|   28    |        1667         |                 |   55666   |
-|   29    |        1667         |                 |   55666   |
-|   30    |        1667         |                 |   55666   |
+|   25    |        1667         |      1426       |   57092   |
+|   26    |        1667         |      1963       |   59055   |
+|   27    |        1667         |                 |   59055   |
+|   28    |        1667         |                 |   59055   |
+|   29    |        1667         |                 |   59055   |
+|   30    |        1667         |                 |   59055   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
