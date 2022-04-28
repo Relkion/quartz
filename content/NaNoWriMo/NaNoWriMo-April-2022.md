@@ -39,6 +39,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter24-The-Guilt-of-Bai-Xingyue|Chapter 24]]
 - [[Chapter25-The-Broken-Castle|Chapter 25]]
 - [[Chapter26-Certifiable|Chapter 26]]
+- [[Chapter27-A-Candle-and-a-Conversation|Chapter 27]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -69,8 +70,8 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   24    |        1667         |      2281       |   55666   |
 |   25    |        1667         |      1426       |   57092   |
 |   26    |        1667         |      1963       |   59055   |
-|   27    |        1667         |                 |   59055   |
-|   28    |        1667         |                 |   59055   |
-|   29    |        1667         |                 |   59055   |
-|   30    |        1667         |                 |   59055   |
+|   27    |        1667         |      2083       |   61138   |
+|   28    |        1667         |                 |   61138   |
+|   29    |        1667         |                 |   61138   |
+|   30    |        1667         |                 |   61138   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
