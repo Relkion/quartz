@@ -40,6 +40,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter25-The-Broken-Castle|Chapter 25]]
 - [[Chapter26-Certifiable|Chapter 26]]
 - [[Chapter27-A-Candle-and-a-Conversation|Chapter 27]]
+- [[Chapter28-Binding-the-Artifact|Chapter 28]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -71,7 +72,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   25    |        1667         |      1426       |   57092   |
 |   26    |        1667         |      1963       |   59055   |
 |   27    |        1667         |      2083       |   61138   |
-|   28    |        1667         |                 |   61138   |
-|   29    |        1667         |                 |   61138   |
-|   30    |        1667         |                 |   61138   |
+|   28    |        1667         |      2188       |   63326   |
+|   29    |        1667         |                 |   63326   |
+|   30    |        1667         |                 |   63326   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
