@@ -41,6 +41,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter26-Certifiable|Chapter 26]]
 - [[Chapter27-A-Candle-and-a-Conversation|Chapter 27]]
 - [[Chapter28-Binding-the-Artifact|Chapter 28]]
+- [[Chapter29-A Secret Conversation|Chapter 29]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -73,6 +74,6 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   26    |        1667         |      1963       |   59055   |
 |   27    |        1667         |      2083       |   61138   |
 |   28    |        1667         |      2188       |   63326   |
-|   29    |        1667         |                 |   63326   |
-|   30    |        1667         |                 |   63326   |
+|   29    |        1667         |      2230       |   65556   |
+|   30    |        1667         |                 |   65556   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
