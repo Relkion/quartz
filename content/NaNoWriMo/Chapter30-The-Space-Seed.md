@@ -1,3 +1,11 @@
+---
+title: "Chapter 30-The Space Seed"
+tags: 
+- nanowrimo
+disableToc: true
+---
+
+
 Jiaojiao blinked sullenly at the triumphant ball, its strobing lights exacerbating her headache.
 
 "Why did you wake me?"
