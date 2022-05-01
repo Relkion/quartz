@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "content/Story-a-Day/Day01-Imaginary-Friend.md",
+            "file": "content/Story-a-Day/Story-a-Day-May-2022.md",
             "mode": "source"
           }
         }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 175
+    "width": 192
   },
   "right": {
     "id": "be88bbaa8ca3d268",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/Story-a-Day/Day01-Imaginary-Friend.md",
+                "file": "content/Story-a-Day/Story-a-Day-May-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,19 +92,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 136
+    "width": 100
   },
   "active": "3a875b8ef8de92a7",
   "lastOpenFiles": [
-    "content/Story-a-Day/Day01-Imaginary-Friend.md",
-    "content/_index.md",
     "content/Story-a-Day/Story-a-Day-May-2022.md",
-    "content/NaNoWriMo/Chapter30-The-Space-Seed.md",
+    "content/Story-a-Day/Day01-Imaginary-Friend.md",
+    "content/private/NaNoWriMo-April-2022/Chapter01-Death-of-an-Influencer.md",
+    "content/private/Untitled.md",
+    "content/_index.md",
+    "content/private/NaNoWriMo-April-2022/Chapter30-The-Space-Seed.md",
     "content/NaNoWriMo/NaNoWriMo-April-2022.md",
-    "content/NaNoWriMo/Chapter29-A Secret Conversation.md",
-    "content/NaNoWriMo/Chapter28-Binding-the-Artifact.md",
-    "content/NaNoWriMo/Chapter27-A-Candle-and-a-Conversation.md",
-    "content/NaNoWriMo/Chapter26-Certifiable.md",
-    "content/NaNoWriMo/Chapter02-The-Missing-Heroine.md"
+    "content/private/NaNoWriMo-April-2022/Chapter29-A Secret Conversation.md",
+    "content/private/NaNoWriMo-April-2022/Chapter28-Binding-the-Artifact.md",
+    "content/private/NaNoWriMo-April-2022/Chapter27-A-Candle-and-a-Conversation.md"
   ]
 }

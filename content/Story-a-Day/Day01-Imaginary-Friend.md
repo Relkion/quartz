@@ -29,7 +29,7 @@ Once again, Keith found his gloved hands moving without permission, despite his 
 
 "Fuck me!" Keith said.
 
-"Don't shout!" the girl scolded. "No shouting inside!"
+"Don't shout!" the girl scolded. "No shout inside!"
 
 "Don't tell me what to do, aight?! Am I dead? I'm fucking dead! What is even happening right now?" Keith's head swiveled back and forth, taking in the child's bedroom, full of plushies and picture books.
 
