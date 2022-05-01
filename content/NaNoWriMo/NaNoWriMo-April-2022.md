@@ -5,6 +5,20 @@ tag:
 disableToc: true
 ---
 
+##### The End: April 30, 2022
+IT'S OVER!
+I had a lot of fun!
+I'll admit, it was relaxing to just write without editting anything at all and just watch the words flow onto the page without obsessing over prose.
+I managed to get Act I down and the beginning of Act II, but the rest of the book is still hazy. I know what I want to happen, but I'm not sure what order I want events to progress.
+But I think I did okay. 
+I'm still learning.
+This website is a mess. I need to clean it up.
+The "chapters" I wrote are closer to scenes and I need to condense and restructure.
+I will take the chapters down after a while because I plan to edit, and honestly they are kind of an embarrassing mess.
+It was mostly an excercise of forebearance on my part. I wanted to just throw things out there without worry.
+I've signed up for Story A Day for May as my next project. 
+
+##### The Beginning
 I've had this idea for a book series bouncing around for quite some time and [NaNoWriMo](https://nanowrimo.org/what-is-camp-nanowrimo) was just the excuse that I needed to jumpstart the whole endeavor. This is my first time participating, wish me luck!
 
 But first, a [[TianDiRen-Foreword|foreword]]. Reading this section is not by any means necessary to understand the work (hopefully,) but if you have a minute to kill... 
@@ -42,6 +56,7 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 - [[Chapter27-A-Candle-and-a-Conversation|Chapter 27]]
 - [[Chapter28-Binding-the-Artifact|Chapter 28]]
 - [[Chapter29-A Secret Conversation|Chapter 29]]
+- [[Chapter30-The-Space-Seed|Chapter 30]]
 
 
 | **Day** | **Word Count Goal** | **Achievement** | **Total** |
@@ -75,5 +90,5 @@ Here's a [[TianDiRen-Blurb|blurb]], if you want to get an idea of what the story
 |   27    |        1667         |      2083       |   61138   |
 |   28    |        1667         |      2188       |   63326   |
 |   29    |        1667         |      2230       |   65556   |
-|   30    |        1667         |                 |   65556   |
+|   30    |        1667         |      1864       |   67420   |
 <!-- TBLFM: @3$>..@>$>=(@-1+$-1) -->
